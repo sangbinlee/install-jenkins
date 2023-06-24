@@ -12,8 +12,7 @@ install-jenkins
 
 # after installing jenkins and jdk17 and jre17
   1.  sudo vi /var/lib/jenkins/secrets/initialAdminPassword
-
-    ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/300b8491-3033-44aa-af8b-7a4b67dab60b)
+    ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/5278c3a0-2b49-4081-a322-a6b01b2c4b9d)
 
   2.  Customize Jenkins
      ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/30ea703b-1787-46e2-ac3f-ec40ce4558cc)
