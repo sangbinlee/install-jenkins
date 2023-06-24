@@ -9,6 +9,8 @@ install-jenkins
   2. Verify Java JDK Installation
       - java -version   
 
+        ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/ac96172f-6ecb-4c1d-ad16-2eee6b5b8897)
+
 
 # after installing jenkins and jdk17 and jre17
   1.  sudo vi /var/lib/jenkins/secrets/initialAdminPassword
