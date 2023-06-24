@@ -25,6 +25,13 @@ install-jenkins
       sudo apt-get update
       sudo apt-get install jenkins
 
+    - Start Jenkins
+      sudo systemctl enable jenkins
+      sudo systemctl start jenkins
+      sudo systemctl status jenkins
+        ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/57920a4a-188f-4e49-9d45-b2121b5ff372)
+
+
 
   1.  sudo vi /var/lib/jenkins/secrets/initialAdminPassword
     ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/5278c3a0-2b49-4081-a322-a6b01b2c4b9d)
