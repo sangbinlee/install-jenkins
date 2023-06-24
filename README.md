@@ -32,7 +32,9 @@ install-jenkins
       
         
 
-        ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/c3d50570-6fe3-4a9a-bb4d-73c6b2187d23)
+
+ ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/3358c0b5-39a4-4114-8aae-8f2cdbc6c6e8)
+       
 
 
 
