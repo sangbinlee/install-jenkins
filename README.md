@@ -29,7 +29,10 @@ install-jenkins
       sudo systemctl enable jenkins
       sudo systemctl start jenkins
       sudo systemctl status jenkins
-        ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/57920a4a-188f-4e49-9d45-b2121b5ff372)
+      
+        
+
+        ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/c3d50570-6fe3-4a9a-bb4d-73c6b2187d23)
 
 
 
