@@ -60,3 +60,30 @@ install-jenkins
 
   6. welcome page : Jenkins에 오신 것을 환영합니다.
      ![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/fb8b430e-f065-43fd-8763-618477eba50b)
+
+
+
+
+
+
+
+
+![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/417450e1-a89a-48c9-965e-ccac0867a038)
+
+
+![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/0b266b56-a9d9-4f3b-beb9-4fbd6aa05c9c)
+
+
+
+![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/b766388b-539c-4a51-bc6c-8923eb9b7fac)
+
+
+
+![image](https://github.com/sangbinlee/install-jenkins/assets/4024414/0792c060-ba48-49dd-b212-5f49de4b0360)
+
+
+
+
+
+
+
